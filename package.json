@@ -1,5 +1,5 @@
 {
-  "name": "linklist-js",
+  "name": "linklist-ds-js",
   "version": "1.0.0",
   "description": "This npm package contains linklist Data structure and operation on this.",
   "main": "index.js",
